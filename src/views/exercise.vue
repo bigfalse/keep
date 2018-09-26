@@ -1,7 +1,6 @@
 <template>
- <div id='home'>
-     <div class="vipFit">
-     </div>
+ <div id='exercise'>
+ exercise
  </div>
 </template>
 
@@ -18,12 +17,7 @@
  }
 </script>
 
-<style lang="scss">
-#home {
-  .vipFit {
-    width:750px;
-    height:309px;
-  }
-}
+<style>
+
  
 </style>
